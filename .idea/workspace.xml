@@ -4,8 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2dfd4d7-914a-4578-a677-a252e2a3ba9b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Basic_Python/Variable/__init__.py" afterDir="false" />
+    <list default="true" id="d2dfd4d7-914a-4578-a677-a252e2a3ba9b" name="Changes" comment="&quot;first commit&quot;">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_Python/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_Python/.idea/Python_Learning.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_Python/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_Python/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_Python/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_Python/Variable/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_Python/Variable/Variable.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +45,11 @@
     "git-widget-placeholder": "master"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Python Language\Python_Learning_Project\Python_Learning" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -54,6 +66,19 @@
       <option name="presentableId" value="Default" />
       <updated>1744286242686</updated>
     </task>
+    <task id="LOCAL-00001" summary="&quot;first commit&quot;">
+      <option name="closed" value="true" />
+      <created>1744287643237</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1744287643237</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;first commit&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;first commit&quot;" />
   </component>
 </project>
