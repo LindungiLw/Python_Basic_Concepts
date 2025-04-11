@@ -4,15 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2dfd4d7-914a-4578-a677-a252e2a3ba9b" name="Changes" comment="&quot;first commit&quot;">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic_Python/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic_Python/.idea/Python_Learning.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic_Python/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic_Python/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic_Python/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic_Python/Variable/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_Python/Variable/Variable.py" afterDir="false" />
+    <list default="true" id="d2dfd4d7-914a-4578-a677-a252e2a3ba9b" name="Changes" comment="&quot;float and integer&quot;">
+      <change afterPath="$PROJECT_DIR$/basic_python/dictionary/Example1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_python/dictionary/Example2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_python/dictionary/Example3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_python/dictionary/Example4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_python/dictionary/Example5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_python/dictionary/practice/Practice1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_python/dictionary/practice/Practice2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_python/list_tuple/List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_python/list_tuple/Tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_python/variable_data_type/Boolean.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_Python/variable_data_type/Float.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/variable_data_type/Float.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_Python/variable_data_type/Integer.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/variable_data_type/Integer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_Python/variable_data_type/String_.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/variable_data_type/String_.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,24 +35,44 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2vXKzetdmjzoKJl6uLKm6zSfx9C" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Boolean.executor": "Run",
+    "Python.Example 4.executor": "Run",
+    "Python.Example1.executor": "Run",
+    "Python.Example2.executor": "Run",
+    "Python.Example3.executor": "Run",
+    "Python.Example4.executor": "Run",
+    "Python.Integer.executor": "Run",
+    "Python.List.executor": "Run",
+    "Python.Practice1.executor": "Run",
+    "Python.Practice2.executor": "Run",
+    "Python.String.executor": "Run",
+    "Python.String_.executor": "Run",
+    "Python.Tuple.executor": "Run",
+    "Python.Variable.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master"
+    "com.codeium.enabled": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "com.codeium.AppSettingsConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Python Language\Python_Learning_Project\Python_Learning\Basic_Python\variable" />
       <recent name="D:\Python Language\Python_Learning_Project\Python_Learning" />
     </key>
   </component>
@@ -74,11 +100,28 @@
       <option name="project" value="LOCAL" />
       <updated>1744287643237</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="&quot;first commit&quot;">
+      <option name="closed" value="true" />
+      <created>1744290017760</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1744290017760</updated>
+    </task>
+    <task id="LOCAL-00003" summary="&quot;float and integer&quot;">
+      <option name="closed" value="true" />
+      <created>1744291829306</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1744291829306</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;first commit&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;first commit&quot;" />
+    <MESSAGE value="&quot;float and integer&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;float and integer&quot;" />
   </component>
 </project>
