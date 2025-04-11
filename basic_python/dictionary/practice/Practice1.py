@@ -7,5 +7,3 @@ birthdate['name'] = name
 birthdate['birthdays'] = birthdays
 
 print(birthdate)
-
-

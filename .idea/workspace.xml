@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2dfd4d7-914a-4578-a677-a252e2a3ba9b" name="Changes" comment="&quot;float and integer&quot;">
-      <change afterPath="$PROJECT_DIR$/basic_python/dictionary/Example1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/dictionary/Example2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/dictionary/Example3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/dictionary/Example4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/dictionary/Example5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/dictionary/practice/Practice1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/dictionary/practice/Practice2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/list_tuple/List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/list_tuple/Tuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/variable_data_type/Boolean.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic_Python/variable_data_type/Float.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/variable_data_type/Float.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic_Python/variable_data_type/Integer.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/variable_data_type/Integer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic_Python/variable_data_type/String_.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/variable_data_type/String_.py" afterDir="false" />
-    </list>
+    <list default="true" id="d2dfd4d7-914a-4578-a677-a252e2a3ba9b" name="Changes" comment="&quot;add another concepts&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -116,12 +101,21 @@
       <option name="project" value="LOCAL" />
       <updated>1744291829306</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="&quot;add another concepts&quot;">
+      <option name="closed" value="true" />
+      <created>1744382028180</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1744382028180</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;first commit&quot;" />
     <MESSAGE value="&quot;float and integer&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;float and integer&quot;" />
+    <MESSAGE value="&quot;add another concepts&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;add another concepts&quot;" />
   </component>
 </project>
