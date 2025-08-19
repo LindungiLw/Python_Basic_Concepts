@@ -1,0 +1,9 @@
+country_code = {
+    'one': 'korea',
+    'two': 'brazil',
+    'three': 'indonesia',
+    'four': 'usa',
+}
+
+country_code['five'] = 'japan'
+print(country_code)

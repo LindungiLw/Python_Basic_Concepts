@@ -38,36 +38,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Boolean.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Example 4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Example1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Example2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Example3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Example4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Example5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.For_Loop1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Integer.executor&quot;: &quot;Run&quot;,
-    &quot;Python.List.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Practice1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Practice2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Practice3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Practice4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Practice5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.String.executor&quot;: &quot;Run&quot;,
-    &quot;Python.String_.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Tuple.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Variable.executor&quot;: &quot;Run&quot;,
-    &quot;Python.nn.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;com.codeium.enabled&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Python Language/Python_Learning_Project/Python_Learning/basic_python/execution_control_structures/for_loop&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Boolean.executor": "Run",
+    "Python.Example 4.executor": "Run",
+    "Python.Example1.executor": "Run",
+    "Python.Example2.executor": "Run",
+    "Python.Example3.executor": "Run",
+    "Python.Example4.executor": "Run",
+    "Python.Example5.executor": "Run",
+    "Python.For_Loop1.executor": "Run",
+    "Python.Integer.executor": "Run",
+    "Python.List.executor": "Run",
+    "Python.Practice1.executor": "Run",
+    "Python.Practice2.executor": "Run",
+    "Python.Practice3.executor": "Run",
+    "Python.Practice4.executor": "Run",
+    "Python.Practice5.executor": "Run",
+    "Python.String.executor": "Run",
+    "Python.String_.executor": "Run",
+    "Python.Student.executor": "Run",
+    "Python.Tuple.executor": "Run",
+    "Python.Variable.executor": "Run",
+    "Python.nn.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "com.codeium.enabled": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/Python Language/Python_Learning_Project/Python_Learning/basic_python/execution_control_structures/for_loop",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Python Language\Python_Learning_Project\Python_Learning\basic_python\execution_control_structures\for_loop" />
@@ -160,7 +161,15 @@
       <option name="project" value="LOCAL" />
       <updated>1755578706566</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="&quot;add another concepts&quot;">
+      <option name="closed" value="true" />
+      <created>1755585786061</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1755585786061</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
