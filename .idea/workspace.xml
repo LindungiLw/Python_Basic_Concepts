@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d2dfd4d7-914a-4578-a677-a252e2a3ba9b" name="Changes" comment="&quot;add another concepts&quot;">
-      <change afterPath="$PROJECT_DIR$/basic_python/textdata_files_exception/read/Example3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/textdata_files_exception/read/numbers.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_python/containers_randomly/random1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_python/containers_randomly/random2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_python/containers_randomly/random3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_python/containers_randomly/random4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_python/data_type/String_.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/data_type/String_.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_python/textdata_files_exception/read/Example1.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/textdata_files_exception/read/Example1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_python/textdata_files_exception/read/Example2.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/textdata_files_exception/read/Example2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +83,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-4f4e415b4190-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.26053.29" />
+        <option value="bundled-python-sdk-f78a9d071105-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.26574.90" />
       </set>
     </attachedChunks>
   </component>
@@ -153,7 +152,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744595475564</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="&quot;add another concepts&quot;">
+      <option name="closed" value="true" />
+      <created>1755578706566</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1755578706566</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
