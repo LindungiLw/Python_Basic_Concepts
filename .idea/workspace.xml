@@ -5,103 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d2dfd4d7-914a-4578-a677-a252e2a3ba9b" name="Changes" comment="&quot;add another concepts&quot;">
-      <change afterPath="$PROJECT_DIR$/basic_python/data_type/module_math/Example1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/execution_control_structures/accumulator_loop/Example1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/execution_control_structures/accumulator_loop/practice/Practice1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/execution_control_structures/break/Example1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/execution_control_structures/break/Example2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/execution_control_structures/counter_loop/Example1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/execution_control_structures/counter_loop/practice/Practice1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/execution_control_structures/for_loop/Example1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/execution_control_structures/for_loop/Example2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/execution_control_structures/for_loop/Example3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/execution_control_structures/for_loop/Example4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/execution_control_structures/for_loop/Example5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/execution_control_structures/for_loop/Example6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/execution_control_structures/for_while_loop/Example1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/execution_control_structures/for_while_loop/Example2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/execution_control_structures/for_while_loop/Example3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/execution_control_structures/for_while_loop/Example4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/execution_control_structures/for_while_loop/Example5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/execution_control_structures/for_while_loop/practice/Practice1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/execution_control_structures/for_while_loop/practice/Practice2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/execution_control_structures/for_while_loop/practice/Practice3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/execution_control_structures/for_while_loop/practice/Practice4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/execution_control_structures/for_while_loop/practice/Practice5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/execution_control_structures/nested_loop/Example1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/execution_control_structures/nested_loop/Example2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/execution_control_structures/nested_loop/Example3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/execution_control_structures/two_dimensional_lists/Example1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/execution_control_structures/two_dimensional_lists/Example2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/execution_control_structures/two_dimensional_lists/Example3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/execution_control_structures/two_dimensional_lists/Example4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/execution_control_structures/two_dimensional_lists/practice/Practice1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/execution_control_structures/while_loop/Example1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/execution_control_structures/while_loop/Example2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/execution_control_structures/while_loop/Example3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/execution_control_structures/while_loop/Example4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/execution_control_structures/while_loop/Example5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/execution_control_structures/while_loop/Example6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/execution_control_structures/while_loop/Example7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/execution_control_structures/while_loop/Example8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/execution_control_structures/while_loop/practice/Practice1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/execution_control_structures/while_loop/practice/Practice2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/execution_control_structures/while_loop/practice/Practice3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/execution_control_structures/while_loop/practice/Practice4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/execution_control_structures/while_loop/practice/Practice5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/execution_control_structures/while_loop/practice/Practice6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/imperative/build_in/Example1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/imperative/build_in/Example2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/imperative/build_in/Example3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/imperative/build_in/Example4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/imperative/build_in/Example5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/imperative/build_in/Example6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/imperative/build_in/Practice1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/imperative/formatted/Practice1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/imperative/if_else/elif/elif1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/imperative/if_else/elif/elif2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/imperative/if_else/elif/elif3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/imperative/if_else/elif/elif4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/imperative/if_else/else/else1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/imperative/if_else/else/else2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/imperative/if_else/else/else3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/imperative/if_else/else/else4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/imperative/if_else/else/else5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/imperative/if_else/else/else6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/imperative/if_else/else/else7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/imperative/if_else/if/if1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/imperative/if_else/if/if2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/imperative/if_else/practice/Practice1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/imperative/if_else/practice/Practice2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/imperative/if_else/practice/Practice3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/imperative/if_else/practice/Practice4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/imperative/nested_condition/Example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/imperative/nested_condition/practice/Practice1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/imperative/nested_condition/practice/Practice2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/imperative/nested_condition/practice/Practice3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/imperative/nested_condition/practice/Practice4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/imperative/parameters/Example1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/imperative/parameters/Example2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/imperative/parameters/mutable_parameter/Example1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/imperative/parameters/mutable_parameter/practice/Practice1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/imperative/return/Example1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/imperative/swapping/Example1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/imperative/swapping/Example2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/imperative/swapping/practice/Practice1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/imperative/user_defined/Example1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/imperative/user_defined/Example2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/imperative/user_defined/practice/Practice1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/imperative/user_defined/practice/Practice2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/imperative/user_defined/practice/Practice3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/imperative/user_defined/practice/Practice4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/imperative/variables/global_variable/Example1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/imperative/variables/global_variable/Example2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/imperative/variables/global_variable/Example3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/imperative/variables/local_variable/Example1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/imperative/variables/local_variable/practice/Practice1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/textdata_files_exception/read/Example1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/textdata_files_exception/read/Example2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_python/textdata_files_exception/read/Example3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_python/textdata_files_exception/read/numbers.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_python/data_type/String_.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/data_type/String_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_python/textdata_files_exception/read/Example1.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/textdata_files_exception/read/Example1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_python/textdata_files_exception/read/Example2.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/textdata_files_exception/read/Example2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,35 +39,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Boolean.executor": "Run",
-    "Python.Example 4.executor": "Run",
-    "Python.Example1.executor": "Run",
-    "Python.Example2.executor": "Run",
-    "Python.Example3.executor": "Run",
-    "Python.Example4.executor": "Run",
-    "Python.Example5.executor": "Run",
-    "Python.For_Loop1.executor": "Run",
-    "Python.Integer.executor": "Run",
-    "Python.List.executor": "Run",
-    "Python.Practice1.executor": "Run",
-    "Python.Practice2.executor": "Run",
-    "Python.Practice3.executor": "Run",
-    "Python.Practice4.executor": "Run",
-    "Python.Practice5.executor": "Run",
-    "Python.String.executor": "Run",
-    "Python.String_.executor": "Run",
-    "Python.Tuple.executor": "Run",
-    "Python.Variable.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "com.codeium.enabled": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/Python Language/Python_Learning_Project/Python_Learning/basic_python/execution_control_structures/for_loop",
-    "settings.editor.selected.configurable": "com.codeium.AppSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Boolean.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Example 4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Example1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Example2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Example3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Example4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Example5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.For_Loop1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Integer.executor&quot;: &quot;Run&quot;,
+    &quot;Python.List.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Practice1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Practice2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Practice3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Practice4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Practice5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.String.executor&quot;: &quot;Run&quot;,
+    &quot;Python.String_.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tuple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Variable.executor&quot;: &quot;Run&quot;,
+    &quot;Python.nn.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;com.codeium.enabled&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Python Language/Python_Learning_Project/Python_Learning/basic_python/execution_control_structures/for_loop&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Python Language\Python_Learning_Project\Python_Learning\basic_python\execution_control_structures\for_loop" />
@@ -235,7 +145,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744434244280</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="&quot;add another concepts&quot;">
+      <option name="closed" value="true" />
+      <created>1744595475564</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1744595475564</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

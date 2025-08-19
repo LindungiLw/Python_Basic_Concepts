@@ -15,7 +15,7 @@ name = "Rahma Lindungi Laowo"
 major = "Information System"
 score = 94
 print(name, major)
-print("My name is", name, "\nMajor:", major, "\nScore:", score)
+print("My is", name, "\nMajor:", major, "\nScore:", score)
 
 x, y, z = 90, 95, 86
 print("Math score:", x)

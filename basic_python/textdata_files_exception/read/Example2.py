@@ -7,5 +7,5 @@ def numWords(filename):
     print(wordList)
     return len(wordList)
 
-num = numWords('n.txt')
+num = numWords('numbers.txt')
 print(num)

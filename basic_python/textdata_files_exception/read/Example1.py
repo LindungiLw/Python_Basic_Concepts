@@ -5,5 +5,5 @@ def numChars(filename):
 
     return len(content)
 
-num = numChars('n.txt')
+num = numChars('numbers.txt')
 print(num)
